@@ -10,7 +10,7 @@ plan:
       transactions:
         - contract-publish:
             contract-name: hello-world
-            expected-sender: ST1SY20AVTCJM66YH9NVF4MFM0JC24EZ2YGWT3GBX
+            expected-sender: ST2R3WKX748K1N6G1G7G2WZJDF5W101XP8BHVH4V2
             cost: 3540
             path: contracts/hello-world.clar
             anchor-block-only: true
